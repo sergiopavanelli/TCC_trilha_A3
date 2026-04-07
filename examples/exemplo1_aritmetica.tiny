@@ -1,0 +1,14 @@
+// Exemplo 1 — Operações aritméticas e variáveis
+// TinyScript: linguagem do protótipo de compilador (A3 UNIBH 2026/1)
+
+a = 10;
+b = 3;
+soma = a + b;
+diferenca = a - b;
+produto = a * b;
+quociente = a / b;
+
+print(soma);
+print(diferenca);
+print(produto);
+print(quociente);

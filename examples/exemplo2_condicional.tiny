@@ -1,0 +1,20 @@
+// Exemplo 2 — Estrutura condicional if/else
+// TinyScript: linguagem do protótipo de compilador (A3 UNIBH 2026/1)
+
+nota = 75;
+media = 60;
+
+if (nota >= media) {
+    resultado = 1;
+    print(resultado);
+} else {
+    resultado = 0;
+    print(resultado);
+}
+
+// Condicional sem else
+maximo = nota;
+if (media > nota) {
+    maximo = media;
+}
+print(maximo);

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python compiler.py ../examples/exemplo2_condicional.tiny)",
+      "Bash(python compiler.py ../examples/exemplo3_laco.tiny)"
+    ]
+  }
+}
